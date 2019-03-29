@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pletcher/node-js-npm-lab/issues"
   },
-  "homepage": "https://github.com/pletcher/node-js-npm-lab#readme"
+  "homepage": "https://github.com/pletcher/node-js-npm-lab#readme",
+  "devDependencies": {
+    "mocha": "^6.0.2"
+  }
 }

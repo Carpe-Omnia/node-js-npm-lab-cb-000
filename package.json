@@ -24,5 +24,8 @@
   "homepage": "https://github.com/pletcher/node-js-npm-lab#readme",
   "devDependencies": {
     "mocha": "^6.0.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
   }
 }
